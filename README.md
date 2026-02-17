@@ -30,7 +30,7 @@ Follow these steps to get the project running on your local machine:
 
 1. **Clone the repo**
    ```bash
-   git clone [https://github.com/Kavee-Dilshani/password-strength-checker.git](https://github.com/Kavee-Dilshani/password-strength-checker.git)
+   git clone https://github.com/Kavee-Dilshani/password-strength-checker
    cd password-strength-checker
 
 2. **Install dependencies**
